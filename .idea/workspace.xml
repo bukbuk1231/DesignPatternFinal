@@ -11,6 +11,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -50,7 +51,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloConfig">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="part2_chain_of_responsibility.Driver" />
       <module name="DesignPatternFinal" />
@@ -77,8 +78,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="part4_utilizing_design_patterns.Main" />
+      <module name="DesignPatternFinal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="part4_utilizing_design_patterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.HelloConfig" />
         <item itemvalue="Application.Driver" />
       </list>
@@ -94,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575799150937</updated>
-      <workItem from="1575799152278" duration="1545000" />
+      <workItem from="1575799152278" duration="5795000" />
     </task>
     <servers />
   </component>
